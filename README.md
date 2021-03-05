@@ -8,9 +8,9 @@ However some cells are programmed to fetch data from internet. Please run only t
 Run Cells in series only, i.e all cells are orderly arranged from top.
 
 ## Be sure to install required modules
--tensorflow
--tensorboard
--yfinance
--torch
--pandas
--sklearn
+#### -tensorflow
+#### -tensorboard
+#### -yfinance
+#### -torch
+#### -pandas
+#### -sklearn
